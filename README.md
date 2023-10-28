@@ -1,6 +1,4 @@
-# Discord YouTube Bildirim Botu ⏸
-
-- YouTube kanalınıza attığınız videoları anında Discord'da duyurun!
+# Discord XP bot
 
 ## 🎊 Nasıl Kullanılır
 1. `index.js` dosyasında gereken alanları doldurun.
