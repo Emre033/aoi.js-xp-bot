@@ -1,7 +1,7 @@
 # Discord XP bot
 
 ## 🎊 Nasıl Kullanılır
-1. `index.js` dosyasında gereken alanları doldurun.
+1. `main.js` dosyasında gereken alanları doldurun.
 2. `npm i` ve `node .` komutlarıyla botu başlatın.
 3. Botu sunucunuza ekleyin.
 
