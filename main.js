@@ -1,8 +1,8 @@
 const { AoiClient, LoadCommands } = require("aoi.js"); // Elleme
 
 const bot = new AoiClient({
-    token: "", // " İçine Bot Tokenini Gir
-    prefix: "", // " İçine Prefixini Gir
+    token: "", // " MTA4NDQ5NTg5MDI4ODQ4MDI1Nw.GgpTCW.r3scC8Uo0jKtL87cQvQCs8JG5hlzSiHkBSBmuI
+    prefix: "", // " bünyamin
     intents: ["Guilds", "GuildMessages", "MessageContent"], // İntentler
     events: ["onMessage", "onInteractionCreate"], // Eventler
     database: {
